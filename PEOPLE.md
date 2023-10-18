@@ -1,3 +1,1 @@
-Haskell Curry
-console.log('Aloha');
-
+Aloha!
