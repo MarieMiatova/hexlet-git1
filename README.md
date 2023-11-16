@@ -64,3 +64,4 @@ text: строка, в которой все гласные буквы буду�
 normalizeVowels('HExlet') // Hexlet
 normalizeVowels('AJUoOiIldEe') // aJuooiildee
 normalizeVowels('') // 
+
