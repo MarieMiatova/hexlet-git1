@@ -40,3 +40,5 @@ export {
     concatStrings,
     normalizeVowels,
 };
+
+// конец работы 
