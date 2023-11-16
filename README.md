@@ -65,3 +65,4 @@ normalizeVowels('HExlet') // Hexlet
 normalizeVowels('AJUoOiIldEe') // aJuooiildee
 normalizeVowels('') // 
 
+конец работы
